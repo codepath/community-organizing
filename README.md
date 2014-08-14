@@ -29,3 +29,13 @@ A full-day weekend workshop covering the basics of Android by building 2 differe
 #### 1-day Debugging Workshop
 
 A newer workshop demonstrating how to debug Android applications by presenting a series of challenges and then interactively problem solving to fix them to sharpen our debugging skils. Curriculum outline can be [found here](https://docs.google.com/a/thecodepath.com/document/d/1ZYPRHoWU4B6DRRNWgKvzlmWFE1vmY21iVo6VWChzKhQ/edit#heading=h.yskk87sxbd7o).
+
+### iOS
+
+#### 2-hour Evening Workshop
+
+A 2-hour session on Thursdays covering the high-level architecture and then hands-on building of a basic tip calculator.
+
+#### 1-day Introduction Workshop
+
+A full-day weekend workshop covering the basics of iOS by building 2 different applications.
