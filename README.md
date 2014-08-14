@@ -16,14 +16,16 @@ Once an event has a firm date, the event should be added to the [Upcoming CodePa
 
 ## Curriculums
 
-### 2-hour Evening Workshop
+### Android
+
+#### 2-hour Evening Workshop
 
 A 2-hour session on Thursdays covering the high-level architecture and then hands-on building of a basic Todo app. Curriculum outline can be [found here](https://docs.google.com/a/thecodepath.com/document/d/1VHMEwfVKeeq-sKyLK9h2TTQyx-w2YLiNxVld9XuIq9Q/edit#heading=h.nq4m283zealy).
 
-### 1-day Beginning Android Workshop
+#### 1-day Introduction Workshop
 
 A full-day weekend workshop covering the basics of Android by building 2 different applications. Curriculum outline can be [found here](https://docs.google.com/a/thecodepath.com/document/d/112jizqMwBIpHyMyUmmKqBcfsm47oYfzOxusuvjBVljA/edit).
 
-### 1-day Debugging Workshop
+#### 1-day Debugging Workshop
 
 A newer workshop demonstrating how to debug Android applications by presenting a series of challenges and then interactively problem solving to fix them to sharpen our debugging skils. Curriculum outline can be [found here](https://docs.google.com/a/thecodepath.com/document/d/1ZYPRHoWU4B6DRRNWgKvzlmWFE1vmY21iVo6VWChzKhQ/edit#heading=h.yskk87sxbd7o).
