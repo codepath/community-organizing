@@ -12,7 +12,7 @@ Once an event has a firm date, the event should be added to the [Upcoming CodePa
 
 If you want to help organize for [Learning iOS](http://www.meetup.com/Learning-iOS-Development-SF/), please sign up for the associated [ios organizers google group](https://groups.google.com/forum/#!forum/learning-ios-development-organizers) to participate in discussions. If you are new, review the [CodePath Organizer Guide](https://docs.google.com/a/thecodepath.com/document/d/1G6pES4kA8Hy7568FNEsPg6VgO7iSCozGk8CEMNuKYIo/edit#) for a detailed look at how to make events happen.
 
-Once an event has a firm date, the event should be added to the [Upcoming CodePath Meetups Spreadsheet](hhttps://docs.google.com/a/thecodepath.com/spreadsheets/d/1DAvhmQE0p-4QsKS35NU2gK-CqwQ0rfueOK-hooukBFU/edit#gid=2088958568). Enroll on that spreadsheet to sign up to help at the event.
+Once an event has a firm date, the event should be added to the [Upcoming CodePath Meetups Spreadsheet](https://docs.google.com/a/thecodepath.com/spreadsheets/d/1DAvhmQE0p-4QsKS35NU2gK-CqwQ0rfueOK-hooukBFU/edit#gid=2088958568). Enroll on that spreadsheet to sign up to help at the event.
 
 ## Curriculums
 
