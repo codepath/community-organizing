@@ -36,8 +36,8 @@ A newer workshop demonstrating how to debug Android applications by presenting a
 
 #### 2-hour Evening Workshop
 
-A 2-hour session on Thursdays covering the high-level architecture and then hands-on building of a basic tip calculator.
+A 2-hour session on Thursdays covering the high-level architecture and then hands-on building of a basic tip calculator. Curriculum outline can be [found here](https://docs.google.com/a/thecodepath.com/document/d/1HJnCycnh3tEXqg65pm6QBahfuSwTxws6hGReFSElBB8/edit#heading=h.nq4m283zealy). 
 
 #### 1-day Introduction Workshop
 
-A full-day weekend workshop covering the basics of iOS by building 2 different applications.
+A full-day weekend workshop covering the basics of iOS by building 2 different applications. Curriculum outline can be [found here](https://docs.google.com/a/thecodepath.com/document/d/1STVKuBBZwThgOcFWGakoT4eOlHYI4-lwbjTs44Av01Y/edit). 
