@@ -1,5 +1,7 @@
 ## Organizing: How workshops happen. :boom:
 
+<img src="http://i.imgur.com/h0mfyoo.png" width="300" alt="CodePath" />
+
 Planning CodePath workshops should be visibile and transparent. Visibility makes it easier for us to help each other and show new organizers how we work. To jump in, checkout the [issues list](https://github.com/thecodepath/community-organizing/issues) of workshops currently being planned.
 
 ### Android Meetups
